@@ -393,12 +393,6 @@ The script installs any missing packages (`quantmod`, `ggplot2`, `tseries`, `for
 
 ---
 
-## Academic integrity note
-
-This repository documents coursework completed for UNSW's ACTL3301/5301 and is shared for portfolio purposes. If you are a current student, please use it only as a reference for learning and follow your institution's academic integrity policy.
-
----
-
 ## Appendix: SACF grid
 
 <p align="center">
